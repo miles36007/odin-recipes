@@ -9,6 +9,11 @@ h1, h2 {
 /*     text-align: center; */
 }
 
+a {color:#0000FF;}         /* Unvisited link  */
+a:visited {color:#0000FF;} /* Visited link    */
+a:hover {color:#0000FF;}   /* Mouse over link */
+a:active {color:#0000FF;}  /* Selected link   */
+
 /* h2 {
 
 }
